@@ -3,7 +3,10 @@ lockfileVersion: 5.4
 importers:
 
   apps/container:
-    specifiers: {}
+    specifiers:
+      react: '>=18'
+    dependencies:
+      react: 18.1.0
 
   packages/core:
     specifiers:
